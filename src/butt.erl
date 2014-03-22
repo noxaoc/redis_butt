@@ -1,5 +1,5 @@
 % butt ( грядка ) 
--module(butt).
+-module(butt). 
 -compile(export_all).
 -import(lists, [reverse/1]).
 
