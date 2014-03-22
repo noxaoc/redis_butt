@@ -1,4 +1,4 @@
 redis_butt
 ==========
 
-Node Redis balancer 
+This is node Redis balancer. It make balancing by key value.
